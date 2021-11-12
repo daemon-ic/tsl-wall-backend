@@ -11,4 +11,4 @@ In the project directory, you can run:
 
 ### `python3 manage.py runserver`
 
-### `puthon3 manage.py test`
+### `python3 manage.py test`
